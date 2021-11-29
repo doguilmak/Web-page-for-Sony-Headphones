@@ -3,7 +3,7 @@
 
 ## Statement
 
-In this project, a responsive web page was created for 4 different devices. The web page has been developed to be compatible with **1920, 1366, 10 inc Samsung Galaxy Tab and iPhone X, XS and 11 Pro models**. The buttons are not given any qualifications. It has been created to be used as desired.
+In this project, a responsive web page was designed for 4 different resolutions. The web page has been developed to be compatible with **1920, 1366, 10 inc Samsung Galaxy Tab and iPhone X, XS and 11 Pro models**. The buttons are not given any qualifications. It has been created to be used as desired.
 
 ## Previews
 
